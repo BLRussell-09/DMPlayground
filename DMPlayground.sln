@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{6B7E7F9D-B4FF-48AA-9027-F104D3E410C4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMPlayground", "WebApplication1\DMPlayground.csproj", "{6B7E7F9D-B4FF-48AA-9027-F104D3E410C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
